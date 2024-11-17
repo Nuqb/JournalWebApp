@@ -1,0 +1,25 @@
+h1 {
+    text-align: center;
+}
+button {
+    margin: 0;
+    position: absolute;
+    left: 46%;
+}
+#entry {
+    padding-top: 45px;
+    padding-left: 40%;
+    
+} 
+input {
+    display:block;
+    margin-top: 10px;
+
+}
+.submit {
+    margin-top: 20px; 
+    margin-left: 10px;
+}
+form.inputs {
+    display: table;
+}
